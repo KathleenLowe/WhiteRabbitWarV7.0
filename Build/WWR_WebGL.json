@@ -1,0 +1,13 @@
+{
+"companyName": "LowFlowStudio",
+"productName": "WhiteRabbitWarV7.0",
+"dataUrl": "WWR_WebGL.data.unityweb",
+"asmCodeUrl": "WWR_WebGL.asm.code.unityweb",
+"asmMemoryUrl": "WWR_WebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "WWR_WebGL.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
